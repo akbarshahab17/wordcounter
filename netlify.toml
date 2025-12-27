@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/api/*"
-to = "api.external-service.com"
+from = "/*"
+to = "index.html"
 status = 200
